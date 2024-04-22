@@ -5,6 +5,8 @@
 
 💻 IT Engineering Student at University of Buenos Aires  
 📍 Buenos Aires, Argentina  
+🌏 Born in South Korea🇰🇷  
+🌱 Growing as student/developer  
   
 📫 Contact: hg.cld.koo@gmail.com  
 
