@@ -6,7 +6,7 @@
 💻 IT Engineering Student at University of Buenos Aires  
 📍 Buenos Aires, Argentina 🇦🇷  
 🌏 Born in South Korea 🇰🇷  
-🌱 Currently studying frontend/backend development  
+🌱 Currently studying full stack development  
   
 📫 Contact: hg.cld.koo@gmail.com  
 
