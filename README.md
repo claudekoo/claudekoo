@@ -1,6 +1,6 @@
 <h1 align="center">Hi, this is Claude😎</h1>
 <p align="center">
-  <img width="1100" src="https://github.com/claudekoo/claudekoo/blob/main/images/lofi_background.gif"">
+  <img width="1100" src="https://github.com/claudekoo/claudekoo/blob/main/background.gif"">
 </p>
 
 💻 IT Engineering Student at University of Buenos Aires  
