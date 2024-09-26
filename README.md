@@ -1,6 +1,6 @@
-<h1 align="center">Hi, this is Claude😎</h1>
+<h1 align="center">Hi, this is Claude👨‍💻</h1>
 <p align="center">
-  <img width="1100" src="https://github.com/claudekoo/claudekoo/blob/main/background.gif"">
+  <img width="1100" src="https://github.com/claudekoo/claudekoo/blob/main/images/background.gif">
 </p>
 
 💻 IT Engineering Student at University of Buenos Aires  
@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" width="40"/>
+  <img src="https://github.com/claudekoo/claudekoo/blob/main/images/smalltalk.png" height="40" width="40"/>
 </div>
 
 
